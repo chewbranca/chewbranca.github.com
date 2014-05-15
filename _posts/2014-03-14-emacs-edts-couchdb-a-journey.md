@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emacs + EDTS + (big)CouchDB... a journey"
-date:   2014-05-14 21:05:46
+date:   2014-03-14 21:05:46
 categories: tech
 tags: emacs edts couchdb bigcouch erlang
 ---
