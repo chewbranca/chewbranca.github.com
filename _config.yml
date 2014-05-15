@@ -1,0 +1,11 @@
+# Site settings
+title: chewbranca.com
+email: "email: my username at gmail"
+username: chewbranca
+description: "Food, tech, and things not related to either of those."
+baseurl: ""
+url: "http://chewbranca.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
