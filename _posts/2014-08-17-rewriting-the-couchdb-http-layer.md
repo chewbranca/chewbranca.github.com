@@ -115,7 +115,7 @@ that you can then pass to `couch_doc_api` or some such, but I don't
 have any strong opinions on this.
 
 
-## Where I've gotten so far: chttp2, a proof of concept
+## Where I've gotten so far: chttpd2, a proof of concept
 
 I've hacked out an experimental WebMachine [5] based rewrite of the
 HTTP stack called `chttpd2` [6]. This PoC follows the same ideas I've
