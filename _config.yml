@@ -9,8 +9,3 @@ url: "http://chewbranca.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-analytics:
-  provider: google
-  google:
-    tracking_id : 'UA-16708155-1'
